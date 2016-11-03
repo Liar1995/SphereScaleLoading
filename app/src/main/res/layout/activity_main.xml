@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         my:circleRadius="12dp"
-        my:cycle="600" />
+        my:cycle="800" />
 
     <TextView
         android:text="Loading..."
